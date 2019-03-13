@@ -1,1 +1,1 @@
-include ':app', ':basecomponent'
+include ':app', ':basecomponent', ':plugin1'
